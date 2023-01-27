@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+}
+.container-fluid {
+    display: flex;
+    justify-content:flex-end;
+    margin-left: 76px;
+    margin-top: 89px;
+    margin-right: 74px;
+}
+.botton {
+    background-color: #5222D0;
+    border-radius: 100px;
+    border: none;
+    
+}

@@ -1,0 +1,11 @@
+.root {
+    display: inline-block;
+    background-color: #ffcdd2;
+  } 
+  .a {
+    display: inline;
+    width: 65%;
+  } 
+  .b, .c {
+    display: block;
+  } 

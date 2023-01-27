@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.container  {
+    width: 100%;
+    padding-left: 50px;
+     
+}
+.navbar-nav {
+    display:inline-flex;
+    justify-content:flex-end;
+}
+.col-12 {
+    background-color: rgb(220, 223, 224);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 15px;
+
+}
+.button {
+    margin-top: 20px;
+}
+.card {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: none;
+    margin-right: none;
+
+ }
+.text3 {
+    background-color: rgb(182, 175, 175);
+    color: grey ;
+    padding: 50px;
+    
+}
+.footer {
+    height: 50px;
+    background-color: rgb(49, 47, 47);
+    color: white;
+    text-align: center;
+   padding-top: 20px;
+   padding-bottom: 30px;
+}
