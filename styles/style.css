@@ -1,20 +1,97 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 body {
-    width: 100%;
+  width: 100%;
 }
 .container-fluid {
-    display: flex;
-    justify-content:flex-end;
-    margin-left: 76px;
-    margin-top: 89px;
-    margin-right: 74px;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 76px;
+  margin-top: 70px;
+  margin-right: 74px;
 }
 .botton {
-    background-color: #5222D0;
-    border-radius: 100px;
-    border: none;
-    
+  background-color: #5222d0;
+  border-radius: 100px;
+  border: none;
+}
+.botton-buy {
+  margin-left: 116px;
+  border: none;
+}
+
+.text1 {
+  margin-left: 126px;
+  margin-top: 88px;
+  font-family: Inter;
+  font-style: Bold;
+  font-size: 60px;
+  line-height: 72px;
+  line-height: 120%;
+  text-align: left;
+}
+.text2 {
+  margin-left: 126px;
+  margin-top: 10px;
+  margin: bottom 30px;
+  font-size: regular;
+  font-size: 20px;
+  line-height: 32px;
+  line-height: 160%;
+  text-align: Left;
+}
+.text3 {
+    margin-top:100px;
+    font-family: Inter;
+    font-style: Bold;
+    font-size: 60px;
+    line-height: 72px;
+    line-height: 120%;
+    text-align: left;  
+}
+ 
+.nav-link active{
+  margin-top: 146px;
+  margin: bottom 80px; ;
+  color: #5222d0;
+  font-style: Light;
+  font-size: 20px;
+  line-height: 32px;
+  line-height: 160%;
+  text-align: Left;
+}
+.main {
+   margin-left: 95px; 
+   margin-right: 85px;
+}
+ 
+.card {
+    padding-left: 36px;
+    padding-top: 25px;
+    padding-right: 40px;
+}
+ .col {
+    border-block-end-style: none;
+ }
+ .navbar-collapse {
+    margin-bottom: 80px; ;
+ }
+ .col6 {
+    background-color: #EC615B;
+ color: white;
+ padding-left:18px ;
+ padding-top: 25px;
+ padding-right: 22px;
+}
+.botton-mail {
+    margin-top: 23px;
+}
+.form-label {
+    margin-bottom: 16px;
+    Font-size: 30px;
+line-height: 36px;
+line-height: 120%;
+text-align: Left;
 }
