@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: Inter;
 }
 body {
   width: 100%;
@@ -17,16 +18,19 @@ body {
   border-radius: 100px;
   border: none;
 }
+.mb-3 {
+  margin-bottom: 1rem;
+}
 .botton-buy {
   margin-left: 116px;
   border: none;
 }
 
+
 .text1 {
   margin-left: 126px;
   margin-top: 88px;
-  font-family: Inter;
-  font-style: Bold;
+  font-style: Bolder;
   font-size: 60px;
   line-height: 72px;
   line-height: 120%;
@@ -36,7 +40,7 @@ body {
   margin-left: 126px;
   margin-top: 10px;
   margin: bottom 30px;
-  font-size: regular;
+  font-size:Light;
   font-size: 20px;
   line-height: 32px;
   line-height: 160%;
@@ -44,8 +48,8 @@ body {
 }
 .text3 {
     margin-top:100px;
-    font-family: Inter;
-    font-style: Bold;
+    font-family:  Inter;
+    font-style: Regular;
     font-size: 60px;
     line-height: 72px;
     line-height: 120%;

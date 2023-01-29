@@ -3,17 +3,19 @@
     padding: 0;
 }
 main {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 .container  {
     width: 100%;
-    padding-left: 50px;
+    /* padding-left: 50px; */
      
 }
 .navbar-nav {
     display:inline-flex;
-    justify-content:flex-end;
+    
+    
+    
 }
 .col-12 {
     background-color: rgb(220, 223, 224);
@@ -22,17 +24,21 @@ main {
     margin-top: 15px;
 
 }
-.button {
-    margin-top: 20px;
+.mb-3 {
+    margin-top: 1rem;
 }
+.pt-3 {
+    padding-left: 1rem;
+}
+
 .card {
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: none;
     margin-right: none;
-
  }
+  
 .text3 {
     background-color: rgb(182, 175, 175);
     color: grey ;
